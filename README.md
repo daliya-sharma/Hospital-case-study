@@ -7,5 +7,3 @@ Questions:
 - How do they compare to the overall average?
 - What was severity of illness of the discharged patient?
 - What was the discharged patient diagnosed with?
-
-Preview:
